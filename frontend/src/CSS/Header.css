@@ -1,0 +1,11 @@
+.header{
+    display:flex;
+    height: 4vh;
+    justify-content: right;
+    padding: 20px;
+}
+
+.header-links {
+    padding-left: 10px;
+    padding-right: 10px;
+}
